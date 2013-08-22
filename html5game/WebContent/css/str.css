@@ -1,0 +1,22 @@
+body {
+    margin: 20px;
+    font: 12px Helvetica, Arial, sans-serif;
+    background-color: white;
+    width: 400px;
+}
+h1 {
+    font-family: Georgia, "Times New Roman", Serif;
+    font-size: 24px;
+    margin: 0;
+}
+.snake__body {
+	width: 300px;
+	height: 300px;
+	border-style: solid;
+	border-color: black;
+	border-width: thin;
+}
+.snake__score {
+	font: 14px Georgia, "Times New Roman", Serif;
+	color: black;
+}
